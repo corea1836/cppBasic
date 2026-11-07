@@ -560,7 +560,7 @@ int RQ13()
     return 0;
 }
 
-int RQ13()
+int RQ14()
 {
     int arr[6] = {};
     int a;
