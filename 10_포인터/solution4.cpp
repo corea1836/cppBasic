@@ -1,8 +1,11 @@
-
-
 #include <iostream>
 
 int main()
+{
+    return 0;
+}
+
+int Q10()
 {
     int arr[3][3] =
     {
